@@ -4,6 +4,8 @@
 
 **Mac OS X** and **Linux** using [Homebrew](https://brew.sh/) via the [cloudfoundry tap](https://github.com/cloudfoundry/homebrew-tap):
 
+**Tip:** If you have newest version of MacBook go and download in Table 'Mac OS X 64 bit' file PKG
+
 ```sh
 brew install cloudfoundry/tap/cf-cli@6
 ```
